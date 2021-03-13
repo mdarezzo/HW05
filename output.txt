@@ -1,0 +1,11 @@
+Integer items in original order
+   2   6   4   8  10  12  89  68  45  37
+Integer items in ascending order
+   2   4   6   8  10  12  37  45  68  89
+Float items in original order
+   6.2  21.3  1.06  1.04  11.8  13.9  92.7 105.6   3.3   4.1
+Float items in ascending order
+  1.04  1.06   3.3   4.1   6.2  11.8  13.9  21.3  92.7 105.6
+
+C:\Users\MattD\source\repos\HW05\Debug\HW05.exe (process 16596) exited with code 0.
+Press any key to close this window . . .
